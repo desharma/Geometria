@@ -26,5 +26,6 @@ This project was the product of a collaboration between
 Andrew Playsted and Deepak Sharma.
 
 amplayst_final.exe // executable version of the playable game
+
 amplayst_final.gmz // code used to create the game
 
